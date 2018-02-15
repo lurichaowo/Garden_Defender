@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/Game Prog/GardenDefender/Chapter 6 Assets/Garden Defender/Assets/GardenSetUp.unity
+  isLoaded: 1
+  isActive: 1
